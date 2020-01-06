@@ -7,6 +7,7 @@ def meow=(meow)
 end
 
 def meow
+  @meow
   puts "meow!"
 end
 
